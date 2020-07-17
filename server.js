@@ -27,7 +27,7 @@ app.use(
 app.use(express.json());
 
 const corsOption = {
-    origin: "https://rubberduckinterviewer.herokuapp.com/",
+    origin: "https://rubberduckfrontend.herokuapp.com/",
     credentials: true
 }
 
